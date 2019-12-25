@@ -1,3 +1,2 @@
 # Nlp_hw
-
-my project
+I used Tokenize and n-grams.
